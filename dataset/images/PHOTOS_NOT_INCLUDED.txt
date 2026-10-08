@@ -1,0 +1,4 @@
+리뷰 사진 13,069장(약 13.8GB)은 이 zip에 포함되지 않았습니다.
+실제 위치: E:\tripcom_hotel_review_pipeline_data\images
+outputs/04_tripcom_reviews_raw.csv 의 photo_1~photo_10 은 프로젝트 폴더 기준 상대경로이고,
+photo_url_1~photo_url_10 은 원본 Trip.com 이미지 URL입니다.
